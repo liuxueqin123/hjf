@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://60.210.254.242:8200/apk/pro/80x80.png</string>
+					<string>http://223.68.143.71:1010/apk/test/80x80.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://60.210.254.242:8200/apk/pro/80x80.png</string>
+					<string>http://223.68.143.71:1010/apk/test/80x80.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://60.210.254.242:8200/apk/pro/HJFPRO_V1_0_1.ipa</string>
+					<string>http://223.68.143.71:1010/apk/test/HJFTEST_V1_0_1.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jsnewland.hjfapp</string>
+				<string>com.jsnewland.hjfappt</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>弘运宝</string>
+				<string>弘运宝T</string>
 			</dict>
 		</dict>
 	</array>

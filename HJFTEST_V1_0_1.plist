@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://223.68.143.71:1010/apk/test/HJFTEST_V1_0_1.ipa</string>
+					<string>http://223.68.143.71:1010/apk/test/HJFTEST_V1_0_2.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.jsnewland.hjfappt</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
